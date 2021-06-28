@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+Cargo.lock
+**/*.rs.bk
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+.idea
+*.iml
+out
+gen
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
